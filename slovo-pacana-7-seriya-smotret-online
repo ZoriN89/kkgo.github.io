@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Слово Пацана. Кровь на асфальте - захватывающий сериал о мире подростков, дружбе и жизни на улицах. Смотрите 7 серию онлайн.">
+    <meta name="keywords" content="Слово Пацана, Кровь на асфальте, сериал, подростки, дружба, улицы">
+    <meta name="author" content="Ваше Имя">
+
+    <!-- Open Graph метатеги для социальных сетей -->
+    <meta property="og:title" content="Слово Пацана. Кровь на асфальте - 7 серия">
+    <meta property="og:description" content="Смотрите онлайн 7 серию сериала Слово Пацана. Кровь на асфальте. Захватывающая история подростков, дружбы и жизни на улицах.">
+    <meta property="og:image" content="https://thumbs.kinotut.me/media/220//uploads/posts/2023-11/5304403_1699851612.webp?v=5">
+    <meta property="og:url" content="Ссылка на ваш сайт">
+
+    <title>Слово Пацана. Кровь на асфальте - 7 серия</title>
+
+    <!-- Подключение Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Ваши стили -->
+    <style>
+        body {
+            background-color: #02061C;
+            color: #fff;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .poster {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .description {
+            margin-top: 20px;
+        }
+
+        /* Дополнительные стили */
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <img class="poster" src="https://thumbs.kinotut.me/media/220//uploads/posts/2023-11/5304403_1699851612.webp?v=5" alt="Постер Слово Пацана">
+        </div>
+        <div class="col-md-6">
+            <h1>Слово Пацана. Кровь на асфальте</h1>
+            <p><strong>Режиссер:</strong> [Имя режиссера]</p>
+            <div class="description">
+                <p>[Краткое описание сюжета]</p>
+                <img src="https://s1.hostingkartinok.com/uploads/images/2023/12/48e9f28ecf99fa876265c6470fd1d7b8.jpg" alt="Кадр из сериала">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Подключение Bootstrap JS и Popper.js (необходимо для некоторых компонентов) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
